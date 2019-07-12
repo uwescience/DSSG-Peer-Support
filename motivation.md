@@ -7,7 +7,7 @@ title: Motivation
 
 Peer-support platforms are a popular option for young adults seeking out commiseration, advice, empathy, and general support as they navigate their lives. However, without the training and expertise that a licensed counselor would have, even the most well-intentioned individual on the platform may inadvertently offer feedback that is unhelpful or even damaging to a peer seeking support. In an effort to improve the effectiveness of these platforms, our project this summer will attempt to answer the question:
 
-_**What types of responses are the most helpful to individuals sharing their struggles in a peer support platform?**_
+_What types of responses are the most helpful to individuals sharing their struggles in a peer support platform?_
 
 **Background**
 
