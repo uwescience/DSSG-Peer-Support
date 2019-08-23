@@ -1,3 +1,5 @@
+#Acknowledgements
+
 We are exceedingly grateful to Michael Tanana, Assistant Professor at the University of Utah, for running our data through his motivational interviewing machine learning algorithm to develop MI tags for our analysis. 
 
 We would also like to thank Ashish Sharma, for fielding a few technical questions about our data, and Vaughn Iverson and Ariel Rokem for assisting us with troubleshooting technical issues.
