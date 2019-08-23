@@ -1,4 +1,7 @@
-# Acknowledgements
+---
+layout: page
+title: Acknowledgements
+---
 
 We are exceedingly grateful to Michael Tanana, Assistant Professor at the University of Utah, for running our data through his motivational interviewing machine learning algorithm to develop MI tags for our analysis. 
 
