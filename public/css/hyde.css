@@ -105,14 +105,15 @@ a.sidebar-nav-item:focus {
  * contents to the bottom of the sidebar in tablets and up.
  */
 
-@media (min-width: 48em) {
-  .sidebar-sticky {
-    position: absolute;
-    right:  1rem;
-    bottom: 1rem;
-    left:   1rem;
-  }
-}
+/* @media (min-width: 48em) {
+ * .sidebar-sticky {
+ *   position: absolute;
+ *   right:  1rem;
+ *   bottom: 1rem;
+ *   left:   1rem;
+ * }
+ *}
+*/
 
 
 /* Container
