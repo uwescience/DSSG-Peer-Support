@@ -21,6 +21,8 @@ Sincerely,
 David, Kelly, and Shweta
 
 
+
+
 References:
 [1] Centers for Disease Control and Prevention, National Center for Injury Prevention and Control. WISQARS Leading Causes of Death Reports, 1981-2017. Retrieved from https://webappa.cdc.gov/sasweb/ncipc/leadcause.html
 [2] Twenge, J., Cooper, A., Joiner, T., Duffy, M. and Binau, S. (2019). Age, period, and cohort trends in mood disorder indicators and suicide-related outcomes in a nationally representative dataset, 2005–2017. Journal of Abnormal Psychology, 128(3), 185-199. http://dx.doi.org/10.1037/abn0000410
