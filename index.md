@@ -4,6 +4,8 @@ layout: default
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
 
+
+
 Dear Reader,
 
 Since 2013, suicide has been the second leading cause of death for individuals ages 10-14, 15-24, and 25-34 in the United States [1]. The rate of major depressive episodes among young adults has increased by 63% since 2009 [2], with one quarter of young adults now reporting having endured a period of depression, anxiety, or other mental illness within the past year. Young adults have become the age demographic with the highest rate of mental illness, despite also being the group least likely to have received assistance from mental health services [3].
@@ -21,9 +23,9 @@ Sincerely,
 David, Kelly, and Shweta
 
 
-
+-------------------------
 
 References:
-[1] Centers for Disease Control and Prevention, National Center for Injury Prevention and Control. WISQARS Leading Causes of Death Reports, 1981-2017. Retrieved from https://webappa.cdc.gov/sasweb/ncipc/leadcause.html
-[2] Twenge, J., Cooper, A., Joiner, T., Duffy, M. and Binau, S. (2019). Age, period, and cohort trends in mood disorder indicators and suicide-related outcomes in a nationally representative dataset, 2005–2017. Journal of Abnormal Psychology, 128(3), 185-199. http://dx.doi.org/10.1037/abn0000410
-[3] Substance Abuse and Mental Health Services Administration. (2018). Key substance use and mental health indicators in the United States: Results from the 2017 National Survey on Drug Use and Health (HHS Publication No. SMA 18-5068, NSDUH Series H-53). Rockville, MD: Center for Behavioral Health Statistics and Quality, Substance Abuse and Mental Health Services Administration. Retrieved from https://www.samhsa.gov/data/
+[1] Centers for Disease Control and Prevention, National Center for Injury Prevention and Control. WISQARS Leading Causes of Death Reports, 1981-2017. Retrieved from https://webappa.cdc.gov/sasweb/ncipc/leadcause.html . 
+[2] Twenge, J., Cooper, A., Joiner, T., Duffy, M. and Binau, S. (2019). Age, period, and cohort trends in mood disorder indicators and suicide-related outcomes in a nationally representative dataset, 2005–2017. Journal of Abnormal Psychology, 128(3), 185-199. http://dx.doi.org/10.1037/abn0000410 . 
+[3] Substance Abuse and Mental Health Services Administration. (2018). Key substance use and mental health indicators in the United States: Results from the 2017 National Survey on Drug Use and Health (HHS Publication No. SMA 18-5068, NSDUH Series H-53). Rockville, MD: Center for Behavioral Health Statistics and Quality, Substance Abuse and Mental Health Services Administration. Retrieved from https://www.samhsa.gov/data/ . 
