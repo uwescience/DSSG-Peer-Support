@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Motivation
+title: Project Motivation
 ---
 
 **Questions**
