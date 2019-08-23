@@ -10,13 +10,13 @@ Peer support, which occurs when individuals provide emotional support, knowledge
 
 While traditional peer support has been offered through in-person interaction in small, close-knit communities, technology has enabled for the formation of online social networks of support on a much larger scale. These online peer support networks can take the form of chat rooms, social network support groups, structured messaging apps, and other such formats. 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/youngadults_30.png">
+INSERT IMAGE
 
 Much of the existing research into the effectiveness of online peer support has focused on adults; a 2015 systematic review looking into mental health peer-support platform usage by specifically just the young adult age demographic found only six studies that met the researcher’s criteria. Of the six studies examined, two—a randomized control trial (RCT) for anxiety and an RCT for tobacco use—found positive effects from online peer support. The four remaining studies—an RCT for eating disorders, a pre-post study of adolescent smokers, a pre-post study for depression, and a randomized trial with no control group for depression—found no effect [3].
 
 More generally, the role of social media on young adult mental health is similarly inconclusive. A systematic narrative review of forty-three research papers completed in 2014 found benefits of social media use to include increased self-esteem, perceived support, and opportunity for disclosure. However, it also found harmful effects including increased depression, exposure to self-harm, and cyber-bullying. The majority of the research papers studied concluded with either mixed effects or no effects on mental health at all [5]. 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/youngadults_74.png">
+INSERT IMAGE
 
 Thus, two very different ideas about social media and online peer support can be put forth, depending on which research is cited: 1) that social media and online peer support are beneficial by giving young adults a safe and supportive environment to discuss concerns they may not otherwise broach, or 2) that social media and online peer support at best have no influence on mental health and at worst potentially aggravate depressive symptoms. The authors of the peer support systematic review additionally point out the troubling lack of research on the appropriateness of peer support for individuals experiencing more severe mental health problems. Thus they, like many other researchers in the field (including us) put forth an urgent call for more thorough, high-quality research into these platforms [3].
 
