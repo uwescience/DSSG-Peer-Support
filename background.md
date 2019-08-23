@@ -4,6 +4,7 @@ title: Background
 ---
 <br/>
 <br/>
+
 ### Peer Support
 
 Peer support, which occurs when individuals provide emotional support, knowledge, and/or practical help to each other based on a shared experience of emotional or psychological pain [1], has been studied formally as a tool for mental health support since 1991 [2].
