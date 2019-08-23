@@ -2,11 +2,9 @@
 layout: page
 title: Background
 ---
-
 <br/>
 <br/>
-
-# Peer Support
+### Peer Support
 
 Peer support, which occurs when individuals provide emotional support, knowledge, and/or practical help to each other based on a shared experience of emotional or psychological pain [1], has been studied formally as a tool for mental health support since 1991 [2].
 
@@ -22,7 +20,7 @@ INSERT IMAGE
 
 Thus, two very different ideas about social media and online peer support can be put forth, depending on which research is cited: 1) that social media and online peer support are beneficial by giving young adults a safe and supportive environment to discuss concerns they may not otherwise broach, or 2) that social media and online peer support at best have no influence on mental health and at worst potentially aggravate depressive symptoms. The authors of the peer support systematic review additionally point out the troubling lack of research on the appropriateness of peer support for individuals experiencing more severe mental health problems. Thus they, like many other researchers in the field (including us) put forth an urgent call for more thorough, high-quality research into these platforms [3].
 
-# Motivational Interviewing
+### Motivational Interviewing
 
 One of the most common strategies to engage in peer support is to encourage individuals to develop counseling skills via a practice called motivational interviewing [6]. This is a counseling practice that relies on four broad strategies of engaging with an individual: 1) by asking open questions, 2) by providing affirmations, 3) by engaging in reflective listening, and 4) by summarizing main themes of the counseling session [7]. Typically these tools are used in contexts in which an individual is struggling with an addiction, mental health problem, or other personal challenge. 
 
