@@ -9,7 +9,7 @@ title:            DSSG Peer Support
 tagline:          ''
 description:      'A 2019 Data Science for Social Good summer fellowship project at the University of Washington' 
 url:              "https://uwescience.github.io"
-baseurl:          "DSSG-Peer-Support"
+baseurl:          "/DSSG-Peer-Support"
 
 
 paginate:         5
