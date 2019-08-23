@@ -4,8 +4,8 @@ layout: default
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
 
-
-
+<br/>
+<br/>
 
 Dear Reader,
 
