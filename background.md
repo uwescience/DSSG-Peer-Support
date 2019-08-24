@@ -27,7 +27,7 @@ One of the most common strategies to engage in peer support is to encourage indi
 Past studies show that motivational interviewing is effective at improving health outcomes and reducing addictive behaviors [8], even when used by trained professionals in a digitally-mediated environment [9]. However, there is relatively little literature with respect to motivational interviewing being used by peers in the specific context of online, asynchronous peer support communication.
 
 ## Research Question
-What types of feedback are the most beneficial to individuals sharing their mental health struggles online?
+What types of responses are the most beneficial to individuals sharing their mental health struggles on online peer support platforms?
 
 ----------------------------------------
 
