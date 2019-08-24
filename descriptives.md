@@ -31,9 +31,6 @@ Lastly, while other research has utilized surveys and mental health assessments 
 
 --------------------------------------------
 
-References:
+### References:
 
 [1] Mead, S., Hilton, D., & Curtis, L. (2001, February). Peer Support: A Theoretical Perspective. *Psychiatric Rehabilitation Journal 25(2)*, 134-141. Doi: 10.1037/h0095032.
-
-
-
