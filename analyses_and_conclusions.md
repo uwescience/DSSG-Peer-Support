@@ -10,9 +10,11 @@ Based on fit statistics, we found that there were nine distinct types of posts t
 We also performed the same topic model analysis on comments and identified 11 distinct strategies that commenters used in responding to the above nine topics. The most common strategy was to relate their own personal challenges regarding relationships and their own self-image. The next most common category was a strategy we describe as “broad support.” This entailed offering supportive but general statements along the lines of “You can do this!” or “I know things are hard right now but you are strong and I believe in you.” Other strategies users engaged in include other forms of encouragement and personal outreach. Notably these topics do not map to typical counseling.
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/TopicModelComments.png">
 
+
 ## Motivational Interviewing 
 One of things we explored was the extent that commenters’ behavioral strategies mirrored those of clinicians or extensively-trained volunteers. Using a pre-trained machine learning algorithm, we labeled the data for the presence of motivational interviewing techniques, such as open-ended questions, offering affirmations, demonstrating reflective listening, and/or summarizing a session’s themes. A simple comparison between the peer support platform’s data and an analysis of clinical data indicated that these data exhibit different distributions. Namely, we find that counseling sessions are much less likely to include offering information than a peer support platform. We also found that reflection and affirmations tend to be more common on the peer support platform [1]. 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/MI_distribution.png">
+
 
 ## User Characteristics
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/PostersCommenters.PNG">
@@ -22,6 +24,7 @@ We found that users that did not go anonymous, older users, and those with large
 
 Thus user level characteristics did have some effect on our helpfulness indicators and needed to be controlled for.
 
+
 ## Counseling Behaviors
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/MITags.png">
 We then looked at how the counseling behaviors that we identified within our dataset mapped to our helpfulness proxies. In particular, we wanted to look at whether the use of motivational interviewing techniques by peers on the platform resulted in more helpfulness outcomes. While we found that affirmations, reflections, and summaries do correlate positively with our helpfulness proxies, the technique of using open questions was not perceived as helpful on the platform (aka less likely to be liked/thanked/etc.). 
@@ -29,6 +32,7 @@ We then looked at how the counseling behaviors that we identified within our dat
 This may be partially explained by the fact that traditional counseling is a longer back and forth conversation between two individuals and thus utilizes open questions as a useful technique to bring out more information about the client’s circumstances. In contrast, our peer support platform only involved short interactions, so it’s possible that open questions are less useful in this context. 
 
 The one outcome that did correlate positively with open questions was “follows”; while we don’t fully understand this, it could potentially imply that open questions lead to further discussion in private chats, and private chats are more likely to result in follows. However, this is purely conjecture as we did not have access to data about the private chats on the platform
+
 
 ## Original Posts
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/PostWordcloud.png">
@@ -38,6 +42,7 @@ This brought up a potential issue of bias within our helpfulness proxy measures:
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/ContentPercentages.png">
 Diving deeper into the data confirmed this fact: those who are experiencing more severe crises were less likely to use our helpfulness proxies, although the rate only fell by about 10%.
 
+
 ## Comments 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/HelpfulNotHelpful.png">
 When we looked at the features of comments and helpfulness, we found that longer comments were positively correlated with our helpfulness proxies. Second person pronouns were also more likely to result in a helpfulness outcome than first person pronouns.
@@ -45,6 +50,7 @@ When we looked at the features of comments and helpfulness, we found that longer
 Furthermore, our analysis of the actual words and language used by commenters on the platform suggests that positive affirming language (“proud”, “did right thing”), encouragement (“stay strong”, “amazing”), and expressions of availability (“feel free contact”, “just message”, “don’t hesitate message”) were more likely to receive an indicator of helpfulness. In contrast, the use of negating language, and particularly “don’t”s (“don’t be stupid”, “don’t end”, “don’t do it”), was found to be less likely to result in an indicator of helpfulness.
 
 When we specifically examined comments on more serious/critical posts related to suicide and self-harm, we found that a lot of the negating language came from users dissuading their peers from engaging in self-harm: “don’t end your life”, “reconsider”, “that’s a permanent solution to a temporary problem”, etc. While this language may be coming from an intention to help, attempting to change someone’s mind in a one-off interaction without really understanding their experience may not be effective [2] [3]. We also found problematic instances of language such as “attention seeker” and “don’t be stupid” used on the platform.
+
 
 ## Model Performance:
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/ModelPerformance.PNG">
