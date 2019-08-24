@@ -12,7 +12,7 @@ We also performed the same topic model analysis on comments and identified 11 di
 
 ## Motivational Interviewing 
 One of things we explored was the extent that commenters’ behavioral strategies mirrored those of clinicians or extensively-trained volunteers. Using a pre-trained machine learning algorithm, we labeled the data for the presence of motivational interviewing techniques, such as open-ended questions, offering affirmations, demonstrating reflective listening, and/or summarizing a session’s themes. A simple comparison between the peer support platform’s data and an analysis of clinical data indicated that these data exhibit different distributions. Namely, we find that counseling sessions are much less likely to include offering information than a peer support platform. We also found that reflection and affirmations tend to be more common on the peer support platform [1]. 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/TopicModelComments.png">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/MI_distribution.png">
 
 ## User Characteristics
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/PostersCommenters.PNG">
