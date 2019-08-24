@@ -9,7 +9,7 @@ Peer support, which occurs when individuals provide emotional support, knowledge
 
 While traditional peer support has been offered through in-person interaction in small, close-knit communities, technology has enabled for the formation of online social networks of support on a much larger scale. These online peer support networks can take the form of chat rooms, social network support groups, structured messaging apps, and other such formats. 
 
-INSERT IMAGE
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
 
 Much of the existing research into the effectiveness of online peer support has focused on adults; a 2015 systematic review looking into mental health peer-support platform usage by specifically just the young adult age demographic found only six studies that met the researcher’s criteria. Of the six studies examined, two—a randomized control trial (RCT) for anxiety and an RCT for tobacco use—found positive effects from online peer support. The four remaining studies—an RCT for eating disorders, a pre-post study of adolescent smokers, a pre-post study for depression, and a randomized trial with no control group for depression—found no effect [3].
 
