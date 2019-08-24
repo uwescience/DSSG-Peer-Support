@@ -47,5 +47,3 @@ Past studies show that motivational interviewing is effective at improving healt
 [8] Rubak, S., Sandbæk, A., Lauritzen, T., & Christensen, B. (2005). Motivational interviewing: a systematic review and meta-analysis. *British Journal of General Practice, 55(513)*, 305-312. https://bjgp.org/content/55/513/305.short
 
 [9] Farrell-Carnahan, L., Hettema, J., Jackson, J., Kamalanathan, S., Ritterband, L. M., & Ingersoll, K. S. (2013). Feasibility and promise of a remote-delivered preconception motivational interviewing intervention to reduce risk for alcohol-exposed pregnancy. *Telemedicine and e-Health, 19(8)*, 597-604. https://www.liebertpub.com/doi/abs/10.1089/tmj.2012.0247
-
-
