@@ -3,7 +3,7 @@ layout: page
 title: Analyses & Conclusions
 ---
 ## Topic Models
-Perhaps the biggest contribution of this work is to provide a categorization of content on these platforms. We used an unsupervised learning method called Latent Dirichlet allocation. This technique assumes that each post or comment is comprised of a mixture of topics and that each topic is a mixture of words. By looking at the co-occurence of words, we then hand-labeled these topics. 
+One significant contribution from this work is providing a categorization of content on these platforms. We used an unsupervised learning method called Latent Dirichlet allocation. This technique assumes that each post or comment is comprised of a mixture of topics and that each topic is a mixture of words. By looking at the co-occurence of words, we then hand-labeled these topics. 
 
 Based on fit statistics, we found that there were nine distinct types of posts that users made, the most common of which was an expression of despair. A synthetic example of despair may look like “Sometimes I get so lonely…then I get angry for feeling this way.” Other themes we detected corresponded to strong emotions, concerns about relationships, and generalized anxiety.
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/TopicModelQuestion.png">
@@ -51,7 +51,7 @@ When we specifically examined comments on more serious/critical posts related to
 While we see that the text and engineered features can somewhat predict our helpfulness proxies, there is still a lot that we are not capturing within our models. Further discussion of this is in the Limitations section.
 
 -------------------
-### References
+### References:
 
 [1] Can, D., Atkins, D. C., & Narayanan, S. S. (2015). A dialog act tagging approach to behavioral coding: a case study of addiction counseling conversations. *INTERSPEECH 2015*, 339-343. https://sail.usc.edu/publications/files/Dogan-IS150788.pdf
 
