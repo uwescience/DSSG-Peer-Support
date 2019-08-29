@@ -14,7 +14,7 @@ If a user chooses to engage with another’s content, they have the option of co
 ## Data Descriptives: 200 Million Rows
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/UpdatedInfographic.PNG">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/Website_PostsPerWeek.png">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/Website_PostsPerWeek_New.png">
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/MoodDistribution.PNG">
 
 ## Important Differences Between This Platform and Others
