@@ -4,8 +4,11 @@ title: Background
 ---
 
 ## Research Question
-What types of responses are the most beneficial to individuals sharing their mental health struggles on online peer support platforms?
+Our research question this summer was as follows: What types of responses are the most beneficial to individuals sharing their mental health struggles on online peer support platforms?
 
+In order to answer this question, we were given access to a database of over 200 million rows of public conversations, user behavior, and demographics through a data license agreement with an online peer support platform. Our goal was to use natural language processing techniques to more fully understand the types of interactions taking place on this platform and pinpoint those that seemed to be more helpful to the user seeking support.
+
+Before we begin our discussion of our methods for doing so, however, there are a few terms that should be clarified and contextualized within the existing research.
 
 ## Peer Support
 
@@ -26,7 +29,7 @@ Thus, two very different ideas about social media and online peer support can be
 
 ## Motivational Interviewing
 
-One of the most common strategies promoted for effective peer support is a method called motivational interviewing [6]. Motivational interviewing relies on four broad styles of engaging with an individual: 1) by asking open questions, 2) by providing affirmations, 3) by engaging in reflective listening, and 4) by summarizing main themes of the discussion [7]. Typically these tools are used in contexts in which an individual is struggling with an addiction, mental health problem, or other personal challenge. 
+One of the most common strategies promoted for effective peer support is a method called motivational interviewing [6]. Motivational interviewing incorporates four broad styles of engaging with an individual: 1) by asking open questions, 2) by providing affirmations, 3) by engaging in reflective listening, and 4) by summarizing main themes of the discussion [7]. Typically these tools are used in contexts in which an individual is struggling with an addiction, mental health problem, or other personal challenge. 
 
 Past studies show that motivational interviewing is effective at improving health outcomes and reducing addictive behaviors [8] and can be beneficial even when used by trained professionals in a digitally-mediated environment [9]. However, there is relatively little literature with respect to motivational interviewing being used by peers in the specific context of online, asynchronous peer support communication.
 
