@@ -21,7 +21,7 @@ We—the three fellows working on the Peer Support project this summer—were se
 
 Sincerely,
 
-David, Kelly, and Shweta
+David Lang, Kelly McMeekin, and Shweta Chopra
 
 
 -------------------------
