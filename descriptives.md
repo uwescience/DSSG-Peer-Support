@@ -13,7 +13,7 @@ If a user chooses to engage with another’s content, they have the option of co
 
 ## Data Descriptives: 200 Million Rows
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/infographic.PNG">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/UpdatedInfographic.PNG">
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/Website_PostsPerWeek.png">
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/MoodDistribution.PNG">
 
@@ -21,9 +21,9 @@ If a user chooses to engage with another’s content, they have the option of co
 
 While the platform that we studied this summer is branded as a peer support platform, there are several key differences between this platform and other online peer support platforms that are worth discussion.
 
-First of all, content on the platform is not limited to peer support; in fact, the platform functions more as social media with a mental health focus than what we’d typically associate with a topic-specific peer support platform. When we examined social media versus non-social media type content on the platform, we discovered that only about one third of the posts met our requirements for mental health content.
+First of all, content on the platform is not limited to peer support: in fact, the platform functions more as social media with a mental health focus than what we’d typically associate with a topic-specific peer support platform. When we examined social media versus non-social media type content on the platform, we discovered that only about one third of the posts met our requirements for mental health content.
 
-Secondly, while the platform has over 500,000 users, the number of administrators (employees of the platform) and moderators (unpaid trained volunteers) is less than 50. There are not, at least officially, any mental health professionals that play a role in the moderation of the platform.
+Secondly, while the platform has over 500,000 users, the number of administrators (employees of the platform) and moderators (unpaid trained volunteers) is less than 50. There are not, at least officially, any mental health professionals that engage on the platform or play a role in moderation.
 
 Thirdly, while peer support is usually recommended to be used in conjunction with other types of treatment, rather than alone [1], we have no information on whether users of the platform are engaged with any professional support offline or on other platforms.
 
