@@ -81,8 +81,8 @@ html {
   color: #fff;
   margin-top: 0;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  /*KM Changed font-size from 3.25 to 2.25*/
-  font-size: 2.25rem;
+  /*KM Changed font-size from 3.25 to 2.0*/
+  font-size: 2.0rem;
 }
 
 /* Sidebar nav */
