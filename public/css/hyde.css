@@ -62,13 +62,15 @@ html {
 @media (min-width: 48em) {
   .sidebar {
     /* KM removed position: fixed; */
+    position:fixed;
     top: 0;
     left: 0;
     bottom: 0;
     /*KM added float*/
-    float: left;
+    /*float: left;*/
     width: 18rem;
     text-align: left;
+    overflow-y: scroll
   }
 }
 
