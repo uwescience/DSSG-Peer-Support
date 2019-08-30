@@ -15,7 +15,6 @@ baseurl:          "/DSSG-Peer-Support"
 paginate:         5
 
 # Custom vars
-version:          0.0.0
 
 github:
   repo:           https://github.com/uwescience/DSSG-Peer-Support/
