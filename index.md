@@ -7,6 +7,8 @@ layout: default
 <br/>
 <br/>
 
+**This website is part of the eScience Institute, University of Washington Web Archive.**
+
 Dear Reader,
 
 Since 2013, suicide has been the second leading cause of death for individuals ages 10-14, 15-24, and 25-34 in the United States [1]. The rate of major depressive episodes among young adults has increased by 63% since 2009 [2], with one quarter of young adults now reporting having endured a period of depression, anxiety, or other mental illness within the past year. Young adults have become the age demographic with the highest rate of mental illness, despite also being the group least likely to have received assistance from mental health services [3].
